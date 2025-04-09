@@ -1,7 +1,7 @@
 # Maintainer Name
-ro.droidx.maintainer=Dr.Opto
-ro.droidx.chipset=Snapdragon 675
-ro.droidx.display_resolution=6.3" IPS LCD 1080x2340
+ ro.lmodroid.maintainer=NINJA
+ ro.lmodroid.chipset=Snapdragon 675
+ ro.lmodroid.display_resolution=6.3" IPS LCD 1080x2340
 
 # Disable kernel panic for better stability
 ro.kernel.android.checkjni=0
